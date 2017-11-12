@@ -1,3 +1,5 @@
+//Klavyeden Girilen Bir Sayıyı Yazı ile Yazan Programı
+
 #include <stdio.h>
 #include <stdlib.h>
 
